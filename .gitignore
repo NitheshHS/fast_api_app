@@ -1,0 +1,14 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE-specific files (e.g., PyCharm, IntelliJ)
+.idea/
+
+# Ignore virtual environment directories
+venv/
+env/
+
+.DS_Store
