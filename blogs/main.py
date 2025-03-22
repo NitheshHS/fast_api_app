@@ -115,5 +115,5 @@ def delete_user(user_id:int, db: SessionLocal = Depends(get_db)):
         raise HTTPException(status_code=404, detail="User does not exist")
     db.delete(user)
     db.commit()
-    return {'data': 'success', 'msg': f'User deleted: {user_name}'}
+    return {'data': 'success', 'msg': f'User deleted: {user.name}'}
 
