@@ -1,0 +1,9 @@
+2025-03-23 11:16:24,834 - blogs.util.loggers - INFO - User string is trying to login
+2025-03-23 11:16:25,044 - blogs.util.loggers - INFO - User string is authenticated user: <blogs.models.user.User object at 0x110ade9e0>
+2025-03-23 11:16:25,044 - blogs.util.loggers - INFO - User string generating access token
+2025-03-23 11:17:33,695 - blogs.util.loggers - INFO - User string is trying to login
+2025-03-23 11:17:33,923 - blogs.util.loggers - INFO - User string is authenticated user: string
+2025-03-23 11:17:33,923 - blogs.util.loggers - INFO - User string generating access token
+2025-03-23 11:37:54,835 - blogs.util.loggers - INFO - User string is trying to login
+2025-03-23 11:37:55,047 - blogs.util.loggers - INFO - User string is authenticated user: string
+2025-03-23 11:37:55,047 - blogs.util.loggers - INFO - User string generating access token
